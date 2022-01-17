@@ -1,5 +1,7 @@
 # Belly_Button_Biodiversity
 
+Access this webpage at: https://erinmoneil2.github.io/Belly_Button_Biodiversity/
+
 ## Overview 
 Belly Button Biodiversity is an interactive website created to help Improbable Beef find a bacteria grown within the human naval to develop and manufacture a synthetic beef. The data analyzes the top ten most commonly found bacteria in each subjects naval, how often each subject washes, and as well as all of the bacteria found within one subject's belly button. 
 
@@ -38,30 +40,18 @@ Customized:
 
 1. I was able to add an image to the jumbotron <div class> by adding an additional style with a backgroun image. 
 
-//<div class="col-md-12 jumbotron text-center" style="background-image: url(https://media.wired.co.uk/photos/606da8809a15f73a597a1f76/master/w_1600,c_limit/Navelgazing.jpg);">
+<img width="1172" alt="Screen Shot 2022-01-17 at 12 42 36 PM" src="https://user-images.githubusercontent.com/92831268/149834880-a643fc83-9e11-48d2-aa5e-2146ffcb6861.png">
+
   
 2. I was able to change the color of the font to contract the dark image by adding the color white to the font. 
   
-//<h1 style="color:white;">Belly Button Biodiversity Dashboard</h1>
-   //<p style="color:white;">Use the interactive charts below to explore the dataset</p>
+<img width="703" alt="Screen Shot 2022-01-17 at 12 41 35 PM" src="https://user-images.githubusercontent.com/92831268/149834762-aaa08ddc-a37e-4646-b336-9cd0928d4e27.png">
   
 3. I was able to change the background of all of the charts by adding a background color within the layout on charts.js.
-
-//paper_bgcolor: "lightsteelblue"
+ 
+  <img width="357" alt="Screen Shot 2022-01-17 at 12 43 20 PM" src="https://user-images.githubusercontent.com/92831268/149834921-3610345f-eb15-411c-a934-39729f60fc09.png">
   
 4. I added a brief description of each chart by adding it to the HTML file placing the paragraph underneath and centered on each graph. 
   
-      //<div class="col-md-5">
-        //<div id="bar"></div>
-        //<p>This bar graph shows the Top 10 Bacteria cultures found in each subject.</p>
-      //</div>
-      //<div class="col-md-5">
-        //<div id="gauge"></div>
-        //<p class=text-center>This gauge chart shows how often a subject washes their belly button per week.</p>
-      //</div>
-    //</div>
-    //<div class="row">
-      //<div class="col-md-12">
-        //<div id="bubble"></div>
-        //<p class=text-center>This bubble chart shows every bacteria that exists within the selected subject's belly button.</p>
-      //</div>
+<img width="923" alt="Screen Shot 2022-01-17 at 12 41 08 PM" src="https://user-images.githubusercontent.com/92831268/149834729-97989e44-2fb3-466e-9226-55ef4f67c6ed.png">
+
